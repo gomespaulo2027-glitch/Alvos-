@@ -1,0 +1,13 @@
+{
+  "name":"ALVOS — Centro de Execução",
+  "short_name":"ALVOS",
+  "description":"Painel pessoal offline para tarefas, estudos, hábitos, dinheiro e projetos.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#070b14",
+  "theme_color":"#070b14",
+  "lang":"pt",
+  "icons":[
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
